@@ -1,0 +1,14 @@
+"Aliens have invaded a space ship and our hero has to go though a maze of rooms defeating them so they can escape into an escape pod to the planet below. The gane will be more like a zork adventure game with text outputs and funny ways to die, The game will involve an engine that runs a map full of roo,ms or scenes. Each room will priont its own description when the player enters it and then tell the engine what room to run next out of the map."
+
+-Describe each scene.
+
+Death - This is when the plater dies and should be something funny. 
+
+Central Corridor - Rhis is the starting point and has a Gothon already standing there that the players have to defeat with a joke before continuing.
+
+Laser Weapon Armory - This is where the hero het a neutron bomb to blow up the ship before getting to the escape pod. It has a keypad the hero has to guess the number for.
+
+The Bridge - This is another battle scene with a Gothon where the hero places the bomb.
+
+Escape Pod - This is where the hero escapes but only after guessing the right escape pod.
+
