@@ -27,7 +27,7 @@ class Engine(object):
 		
 
 class Death(Scene):
-
+")
 	feedback = [
 	"Death is not the opposite of life, but a part of it",
 	"A person has learned much who has learned how to die.",

@@ -17,7 +17,7 @@ PHRASES = {
     "*** = %%%()":
         "Set *** to an instance of class %%%.",
     "***.***(@@@)":
-        "From *** get the *** function, call it with parameters self, @@@.",
+       `    ` "From *** get the *** function, call it with parameters self, @@@.",
     "***.*** = '***'":
         "From *** get the *** attribute and set it to '***'."
 
